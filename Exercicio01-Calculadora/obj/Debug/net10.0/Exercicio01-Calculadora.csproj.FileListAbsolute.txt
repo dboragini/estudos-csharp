@@ -1,0 +1,14 @@
+E:\estudos\Exercicio01-Calculadora\bin\Debug\net10.0\Exercicio01-Calculadora.exe
+E:\estudos\Exercicio01-Calculadora\bin\Debug\net10.0\Exercicio01-Calculadora.deps.json
+E:\estudos\Exercicio01-Calculadora\bin\Debug\net10.0\Exercicio01-Calculadora.runtimeconfig.json
+E:\estudos\Exercicio01-Calculadora\bin\Debug\net10.0\Exercicio01-Calculadora.dll
+E:\estudos\Exercicio01-Calculadora\bin\Debug\net10.0\Exercicio01-Calculadora.pdb
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\Exercicio01-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\Exercicio01-Calculadora.AssemblyInfoInputs.cache
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\Exercicio01-Calculadora.AssemblyInfo.cs
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\Exercicio01-Calculadora.csproj.CoreCompileInputs.cache
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\Exercicio01-Calculadora.dll
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\refint\Exercicio01-Calculadora.dll
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\Exercicio01-Calculadora.pdb
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\Exercicio01-Calculadora.genruntimeconfig.cache
+E:\estudos\Exercicio01-Calculadora\obj\Debug\net10.0\ref\Exercicio01-Calculadora.dll
